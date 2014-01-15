@@ -1,4 +1,4 @@
-Mobile light theme
+Web light theme
 ==================
 
-Light theme for mobile applications
+Light theme for web applications
