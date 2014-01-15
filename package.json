@@ -1,27 +1,27 @@
 {
-  "name": "topcoat-theme-mobile-light",
-  "version": "0.1.6",
-  "description": "Light theme for mobile applications",
+  "name": "topcoat-theme-web-light",
+  "version": "0.0.1",
+  "description": "Light theme for web applications",
   "main": "entry.css",
-  "style": "src/theme-mobile-light.css",
+  "style": "src/theme-web-light.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kristoferjoseph/theme-mobile-light.git"
+    "url": "git://github.com/kristoferjoseph/theme-web-light.git"
   },
   "keywords": [
     "topcoat",
     "theme",
-    "mobile",
+    "web",
     "light",
     "css"
   ],
-  "author": "@dam",
+  "author": "Garth Braithwaite",
   "license": "Apache2",
   "bugs": {
-    "url": "https://github.com/kristoferjoseph/theme-mobile-light/issues"
+    "url": "https://github.com/topcoat/topcoat/issues"
   },
   "dependencies": {
     "topcoat-variables-web": "git://github.com/topcoat/variables-web.git",
