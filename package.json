@@ -24,7 +24,6 @@
     "url": "https://github.com/topcoat/topcoat/issues"
   },
   "dependencies": {
-    "topcoat-variables-web": "git://github.com/topcoat/variables-web.git",
     "topcoat-variables-shared": "~0.1.3",
     "topcoat-variables-light": "~0.2.6",
     "topcoat-fonts": "~0.2.2"
